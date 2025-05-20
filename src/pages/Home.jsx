@@ -1,6 +1,7 @@
+import { StartBackground } from "../components/StartBackground";
 import { ThemeToggle } from "../components/ThemeToggle";
 
-export const HOme = () => {
+export const Home = () => {
 
     return (
         <div className="min-h-screen bg-background text-foreground overflow-x-hidden">
@@ -8,7 +9,8 @@ export const HOme = () => {
             <ThemeToggle />
 
             {/* Background Effects */}
-
+            <StartBackground />
+            
             {/* Navbar */}
 
             {/* Main COntent */}
