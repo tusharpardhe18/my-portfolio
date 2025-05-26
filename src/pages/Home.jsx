@@ -4,6 +4,7 @@ import { ThemeToggle } from "../components/ThemeToggle";
 import { HeroSection } from "../components/HeroSection";
 import { AboutSection } from "../components/AboutSection";
 import { Skills } from "../components/Skills";
+import { Projects } from "../components/Projects";
 
 export const Home = () => {
 
@@ -22,6 +23,7 @@ export const Home = () => {
                 <HeroSection />
                 <AboutSection />
                 <Skills />
+                <Projects />
             </main>
 
             {/* Footer */ }
