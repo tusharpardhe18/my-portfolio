@@ -1,6 +1,7 @@
 import { Instagram, Linkedin, Mail, MapPin, Phone, Send, Twitch, Twitter } from "lucide-react";
 import {cn} from "../lib/utils"
 import {useToast} from "../hooks/use-toast"
+import { useState } from "react";
 
 export const Contacts = () => {
 
@@ -28,7 +29,7 @@ export const Contacts = () => {
         >
             <div className="constainer mx-auto max-w-5xl">
                 <h2 className="text-3xl md:text-4xl font-bold mb-4 text-center">
-                    Get in <span className="text-primary">Touch</span>
+                    Get In <span className="text-primary">Touch</span>
                 </h2>
 
                 <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
