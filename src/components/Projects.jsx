@@ -15,7 +15,7 @@ const projects = [
         id: 2,
         title: "Weather App",
         description: "This is a simple weather application that allows users to check the current weather conditions for a specified city.",
-        image: "/projects/project2.png",
+        image: "https://drive.google.com/file/d/1EFTP9gIHQ0P95VomNRnwLrOpmJt_jiSX/view?usp=drive_link",
         tags: ["HTML", "CSS", "JavaScript", "OpenWeatherMap API"],
         demo: "https://weatherkaisahai.netlify.app/",
         repository: "https://github.com/tusharpardhe18/Weather-App",
