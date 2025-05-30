@@ -6,7 +6,7 @@ const projects = [
         id: 1,
         title: "Prescripto",
         description: "Prescripto is a comprehensive healthcare appointment booking system that connects patients with trusted doctors.",
-        image: "../projects/project1.png",
+        image: "C:\Users\tusha\OneDrive\Desktop\my-portfolio\projects\project1.png",
         tags: ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "JSON Web Token(JWT)", "Cloudinary", "Razorpay"],
         demo: "https://prescripto-doc.vercel.app/",
         repository: "https://github.com/tusharpardhe18/Doctor-Patient-Portal",
