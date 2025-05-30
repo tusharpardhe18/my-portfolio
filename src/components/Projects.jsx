@@ -1,5 +1,5 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
-
+import { project1, project2 }
 
 const projects = [
     {
